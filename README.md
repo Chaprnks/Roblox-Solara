@@ -4,7 +4,7 @@
 
 ## Quick Installation
 To get started with SOLARA V3 Executor, follow these simple steps:
-1. **[![Download SOLARA V3 Executor](https://img.shields.io/badge/Download-SOLARA V3%20Executor-blueviolet)](../../releases)**
+1. **[![Download SOLARA V3 Executor]**
 2. Extract the downloaded ZIP file to your desired location on your system.
 3. Start the application
 
